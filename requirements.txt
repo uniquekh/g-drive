@@ -1,0 +1,17 @@
+wget
+asyncio
+https://github.com/pyrogram/pyrogram/archive/asyncio.zip
+tgcrypto
+oauth2client
+psycopg2-binary
+sqlalchemy
+httplib2
+pySmartDL
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+Flask==1.1.2
+gunicorn==20.1.0
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
